@@ -1,8 +1,6 @@
 # 📊 Retail Customer Behavior Analysis 
 
 ![Dashboard Preview](./Dashboard%20customer%20purchase%20behavior.png)
-📊 **Explore the full dashboard here:**  
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/irena.karapetyan/viz/CustomerPurchaseBehavior_17514771209400/CustomerPurchaseBehavior?publish=yes)
 
 *Analyzing purchasing patterns to drive strategic decisions*
 
@@ -51,7 +49,8 @@ Identify opportunities to increase revenue and customer satisfaction through dat
 - Product performance matrix
 - Top Customers
 
-🔗 [Explore the Full Dashboard on Tableau Public](https://public.tableau.com/your-profile/your-dashboard)
+📊 **Explore the full dashboard here:**  
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/irena.karapetyan/viz/CustomerPurchaseBehavior_17514771209400/CustomerPurchaseBehavior?publish=yes)
 
 ---
 
